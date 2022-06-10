@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Phần mềm tin học 11</string>
+    <string-array name="chapters">
+        <item>Một Số Khái Niệm Về Lập Trình Và Ngôn Ngữ Lập Trình</item>
+        <item>Chương Trình Đơn Giản</item>
+        <item>Cấu Trúc Rẽ Nhánh Và Lặp</item>
+        <item>Kiểu Dữ Liệu Có Cấu Trúc</item>
+        <item>Tệp Và Thao Tác Với Tệp</item>
+        <item>Chương Trình Con Và Lập Trình Có Cấu Trúc</item>
+    </string-array>
+    <string-array name="questions">
+        <item></item>
+    </string-array>
+</resources>

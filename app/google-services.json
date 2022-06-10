@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634765588816",
+    "project_id": "informationapplication-2022",
+    "storage_bucket": "informationapplication-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634765588816:android:2e8c8379244c4baaaa9455",
+        "android_client_info": {
+          "package_name": "com.dien.informatics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634765588816-dbph9p7csj3spdk0o0l3qjudqi9eb5si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGP2WOTQJkKvhBWXgXds_1fdppZzr-K8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634765588816-dbph9p7csj3spdk0o0l3qjudqi9eb5si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

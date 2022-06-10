@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".InformationActivity"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+    <EditText
+        android:id="@+id/edt_name"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/black"
+        android:hint="Nhập họ và tên"
+        android:inputType="text"
+        android:autofillHints="name" />
+
+    <RadioGroup
+        android:layout_marginVertical="10dp"
+        android:id="@+id/rg_gender"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_male"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nam"
+            android:checked="true"
+            android:textSize="16sp"/>
+
+        <RadioButton
+            android:id="@+id/rb_female"
+            android:layout_marginStart="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nữ"
+            android:textSize="16sp"/>
+    </RadioGroup>
+
+    <EditText
+        android:id="@+id/edt_date"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:hint="Nhập năm sinh"
+        android:inputType="date"
+        android:autofillHints="name" />
+    <EditText
+        android:id="@+id/edt_phone"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:layout_marginVertical="20dp"
+        android:textColor="@color/black"
+        android:hint="Nhập số điện thoại"
+        android:inputType="phone"
+        android:autofillHints="name" />
+    <EditText
+        android:id="@+id/edt_email"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:hint="Nhập email"
+        android:inputType="textEmailAddress"
+        android:autofillHints="name" />
+
+    <EditText
+        android:id="@+id/edt_address"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:layout_marginVertical="20dp"
+        android:textColor="@color/black"
+        android:hint="Nhập địa chỉ"
+        android:inputType="text"
+        android:importantForAutofill="no" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:paddingVertical="10dp"
+        android:paddingHorizontal="40dp"
+        android:textColor="@color/white"
+        android:background="@drawable/custom_btn_radius"
+        app:backgroundTint="@color/purple_500"
+        android:text="Xác nhận"/>
+
+</LinearLayout>

@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="61dp"
+    android:height="37dp"
+    android:viewportWidth="61"
+    android:viewportHeight="37">
+  <path
+      android:pathData="M2,0L59,0A2,2 0,0 1,61 2L61,35A2,2 0,0 1,59 37L2,37A2,2 0,0 1,0 35L0,2A2,2 0,0 1,2 0z"
+      android:fillColor="#fff"/>
+  <path
+      android:strokeWidth="1"
+      android:pathData="M2,0.5L59,0.5A1.5,1.5 0,0 1,60.5 2L60.5,35A1.5,1.5 0,0 1,59 36.5L2,36.5A1.5,1.5 0,0 1,0.5 35L0.5,2A1.5,1.5 0,0 1,2 0.5z"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"/>
+  <path
+      android:pathData="m18.124,32.76 l-2.78,-2.195 -2.928,2.356 -0.006,-15.754 5.706,-0.16 0.008,15.754Z"
+      android:fillColor="#EB5757"/>
+  <path
+      android:strokeWidth="1"
+      android:pathData="m18.1242,32.7605 l-2.7797,-2.1958L12.4162,32.921 12.4099,17.167l5.7061,-0.1599L18.1242,32.7605Z"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"/>
+  <path
+      android:pathData="m15.589,6.803 l2.723,-1.322 1.664,2.437 3.056,0.146 0.153,2.898 2.57,1.575 -1.397,2.582 1.397,2.583 -2.57,1.575 -0.153,2.899 -3.056,0.145 -1.664,2.437 -2.723,-1.322 -2.727,1.322 -1.66,-2.437 -3.057,-0.145 -0.153,-2.899 -2.57,-1.575 1.393,-2.583 -1.393,-2.582 2.57,-1.575 0.153,-2.898 3.057,-0.146 1.66,-2.437 2.727,1.322Z"
+      android:fillColor="#F2C94C"/>
+  <path
+      android:strokeWidth="1"
+      android:pathData="m15.589,6.803 l2.723,-1.322 1.664,2.437 3.056,0.146 0.153,2.898 2.57,1.575 -1.397,2.582 1.397,2.583 -2.57,1.575 -0.153,2.899 -3.056,0.145 -1.664,2.437 -2.723,-1.322 -2.727,1.322 -1.66,-2.437 -3.057,-0.145 -0.153,-2.899 -2.57,-1.575 1.393,-2.583 -1.393,-2.582 2.57,-1.575 0.153,-2.898 3.057,-0.146 1.66,-2.437 2.727,1.322Z"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"/>
+  <path
+      android:strokeWidth="1"
+      android:pathData="M28.467,10.463h25.756m-25.756,6.851h25.756m-25.756,6.853h25.756"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"/>
+</vector>
